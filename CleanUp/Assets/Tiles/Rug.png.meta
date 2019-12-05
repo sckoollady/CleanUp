@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: bade16aadec5aa84a9c3bd220c000c51
+guid: 0118aaf37c05ffd4db6c5bf5a52a679a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6439660579996572638
-    second: FloorandWallTiles_0
+      213: 3006543129663489866
+    second: Rug_0
   - first:
-      213: -341522535673411053
-    second: FloorandWallTiles_1
+      213: -5420814632953068541
+    second: Rug_1
   - first:
-      213: -2554033260230319476
-    second: FloorandWallTiles_2
+      213: 3541792964225352895
+    second: Rug_2
   - first:
-      213: 8858654049165116536
-    second: FloorandWallTiles_3
+      213: -6706006082964166392
+    second: Rug_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -52,13 +52,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
-  spriteBorder: {x: 0, y: 16, z: 16, w: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FloorandWallTiles_0
+      name: Rug_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7218b72137025ae49a4335f113a323de
-      internalID: 6439660579996572638
+      spriteID: be458045bf407724db7bc2e69fa4463e
+      internalID: 3006543129663489866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_1
+      name: Rug_1
       rect:
         serializedVersion: 2
         x: 16
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15d02db9bae66644195505a206dc8fed
-      internalID: -341522535673411053
+      spriteID: ae8586b0015dc5c41a0fab5ffa64516d
+      internalID: -5420814632953068541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_2
+      name: Rug_2
       rect:
         serializedVersion: 2
         x: 0
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e41cfb8bb1c82fc4285661fae8ad83f7
-      internalID: -2554033260230319476
+      spriteID: 2a7d334287ffc78439bc7bb0a6784ad8
+      internalID: 3541792964225352895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_3
+      name: Rug_3
       rect:
         serializedVersion: 2
         x: 16
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fbd4777315009746b12ba948bfc032e
-      internalID: 8858654049165116536
+      spriteID: c0a4b3081df2c264ab0040fbb032cc9a
+      internalID: -6706006082964166392
       vertices: []
       indices: 
       edges: []
@@ -193,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 562afb3ba8237824a848fe52c66af7ba
+    spriteID: af838c2155857fe49849f21905eba7ef
     internalID: 0
     vertices: []
     indices: 

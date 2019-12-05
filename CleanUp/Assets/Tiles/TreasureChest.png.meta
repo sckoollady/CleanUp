@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: bade16aadec5aa84a9c3bd220c000c51
+guid: 1753d4721422d0941973abb441dfcdec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6439660579996572638
-    second: FloorandWallTiles_0
+      213: 7793962618752990514
+    second: TreasureChest_0
   - first:
-      213: -341522535673411053
-    second: FloorandWallTiles_1
+      213: 7429822970295999662
+    second: TreasureChest_1
   - first:
-      213: -2554033260230319476
-    second: FloorandWallTiles_2
+      213: -347051714107185806
+    second: TreasureChest_2
   - first:
-      213: 8858654049165116536
-    second: FloorandWallTiles_3
+      213: 6425987842468052431
+    second: TreasureChest_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
-  spriteBorder: {x: 0, y: 16, z: 16, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FloorandWallTiles_0
+      name: TreasureChest_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7218b72137025ae49a4335f113a323de
-      internalID: 6439660579996572638
+      spriteID: 4351be34ac682bc48bcb2d77827ba4a4
+      internalID: 7793962618752990514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_1
+      name: TreasureChest_1
       rect:
         serializedVersion: 2
         x: 16
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15d02db9bae66644195505a206dc8fed
-      internalID: -341522535673411053
+      spriteID: e1f8c8e40deebe645af948055cd70e85
+      internalID: 7429822970295999662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_2
+      name: TreasureChest_2
       rect:
         serializedVersion: 2
         x: 0
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e41cfb8bb1c82fc4285661fae8ad83f7
-      internalID: -2554033260230319476
+      spriteID: b9147eae489a02f42bae8a53c3271c90
+      internalID: -347051714107185806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FloorandWallTiles_3
+      name: TreasureChest_3
       rect:
         serializedVersion: 2
         x: 16
@@ -184,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fbd4777315009746b12ba948bfc032e
-      internalID: 8858654049165116536
+      spriteID: 3a70e432cd3fc1f49a41858fc7262343
+      internalID: 6425987842468052431
       vertices: []
       indices: 
       edges: []
@@ -193,7 +193,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 562afb3ba8237824a848fe52c66af7ba
+    spriteID: f30516ef3b4c3c940a426d8fe0e321a5
     internalID: 0
     vertices: []
     indices: 
